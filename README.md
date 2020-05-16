@@ -1,2 +1,2 @@
 # MusicRhythmGameBuild
-This is a mid-term build of MusicRhythmGame. 
+This is a final build of MusicRhythmGame. 
